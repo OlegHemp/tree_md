@@ -1,0 +1,25 @@
+.  
+├──folder001  
+│    ├──folder0011  
+│    │    ├──folder00111  
+│    │    ├──folder00112  
+│    │    │    ├──folder001121  
+│    │    │    │    └──text001121_01.txt  
+│    │    │    └──folder001122  
+│    │    │         ├──text001122_01.txt  
+│    │    │         └──text001122_02.txt  
+│    │    ├──folder00113  
+│    │    │    └──text00113_01.txt  
+│    │    ├──text00111_01.txt  
+│    │    └──text00111_02.txt  
+│    ├──folder0012  
+│    └──folder0013  
+│         └──text0013_01.txt  
+├──folder002  
+├──folder003  
+│    └──text003_01.txt  
+├──folder004  
+│    ├──text004_01.txt  
+│    └──text004_02.txt  
+├──folder005  
+└──text000000_01.txt  
